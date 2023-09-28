@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+}
+table {
+    width: 100%;
+    height: 100%;
+}
+th {
+    height: 10em;
+    width: 50%;
+}
+
+#th1 {
+    background-color: palegreen;
+}
+
+#th2 {
+    background-color: palevioletred;
+}
